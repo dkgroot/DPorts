@@ -1,0 +1,7 @@
+TIMESTAMP = 1555631456
+SHA256 (ldc-developers-ldc-v0.17.6_GH0.tar.gz) = 95aad1cdab93914ef051d79d13de255b7cf271fbdb4d1d93d1b2ea21f546f2c6
+SIZE (ldc-developers-ldc-v0.17.6_GH0.tar.gz) = 1230980
+SHA256 (ldc-developers-druntime-13b1ccf_GH0.tar.gz) = 0be26cb90b540e972eae3660e1b865f97d5b1cb6c7ffe76e2ec4eae89ed63f4a
+SIZE (ldc-developers-druntime-13b1ccf_GH0.tar.gz) = 953762
+SHA256 (ldc-developers-phobos-1d758b2_GH0.tar.gz) = af70f2d4b09e0062ba986e215677f484c1cec2977a74ca1a73d3534a120992e9
+SIZE (ldc-developers-phobos-1d758b2_GH0.tar.gz) = 1923043
