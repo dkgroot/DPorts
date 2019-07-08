@@ -156,6 +156,7 @@ post-install-DOCS-on:
 	${RM} -r ${STAGEDIR}${DOCSDIR}/html # empty directory created by install.sh
 
 check regression-test test: build
-	(cd ${WRKSRC}/tests && ${SH} run-tests.sh)
+       (cd ${WRKSRC}/tests && ${SH} run-tests.sh)
+
 
 .include <bsd.port.mk>
